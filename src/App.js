@@ -1,6 +1,6 @@
 import "./App.css";
 import { Greeting } from "./Greeting";
-import {Button} from "./Button";
+import {Button, algo} from "./Button";
 
 function App() {
   return (

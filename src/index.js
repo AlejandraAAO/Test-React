@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 // {} podria exportar cosas de un solo archivo
 import App from './App';
-//import reportWebVitals from './reportWebVitals';
+//import reportWebVitals from './reportWebVitals';++
 
 //////////////////////Creamos un elemento root 
 const rootElement = ReactDOM.createRoot(document.getElementById('root'));
