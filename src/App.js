@@ -10,9 +10,11 @@ const users = [
 
 //2 ejercicio: captura el valor del input en una funcion fuera
 
+//{id:'',name:'',edad:''}
 function App() {
   return (
     <div className="App">
+      <input placeholder="ggg"/>
       <TaskCard ready={true} />
 
       <input
